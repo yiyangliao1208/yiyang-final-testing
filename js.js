@@ -44,7 +44,7 @@ let imgList = {
         'images/Charlotte/15.jpg',
         'images/Charlotte/16.JPG',
         'images/Charlotte/17.jpg',
-        'images/Charlotte/18.jpg',
+        'images/Charlotte/18.JPG',
         'images/Charlotte/19.jpg',
         'images/Charlotte/20.jpg',
         'images/Charlotte/21.jpg',
